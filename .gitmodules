@@ -1,0 +1,9 @@
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_angular_glosario.git
+[submodule "Nest"]
+	path = Nest
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_glosario.git
+[submodule "Conceptos"]
+	path = Conceptos
+	url = https://github.com/santiago-reyes-buitrago/Conceptos_Glosario.git
