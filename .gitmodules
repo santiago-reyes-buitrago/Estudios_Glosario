@@ -13,3 +13,6 @@
 [submodule "Java"]
 	path = Java
 	url = https://github.com/santiago-reyes-buitrago/Java_Glosario_Estudio.git
+[submodule "Astro"]
+	path = Astro
+	url = https://github.com/santiago-reyes-buitrago/Astro_Glosario_Estudio.git
