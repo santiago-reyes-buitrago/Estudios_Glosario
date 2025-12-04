@@ -16,3 +16,9 @@
 [submodule "Astro"]
 	path = Astro
 	url = https://github.com/santiago-reyes-buitrago/Astro_Glosario_Estudio.git
+[submodule "CleanSolid"]
+	path = CleanSolid
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_clean_solid.git
+[submodule "Html_Css"]
+	path = Html_Css
+	url = https://github.com/santiago-reyes-buitrago/estudio_udemy_Html_Css.git
