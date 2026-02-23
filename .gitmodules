@@ -19,3 +19,6 @@
 [submodule "Html_Css"]
 	path = Html_Css
 	url = https://github.com/santiago-reyes-buitrago/estudio_udemy_Html_Css.git
+[submodule "Next"]
+	path = Next
+	url = https://github.com/santiago-reyes-buitrago/next-glosario-estudio.git
